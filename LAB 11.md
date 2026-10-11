@@ -182,8 +182,14 @@ By inspecting PDUs in Cisco Packet Tracer, I explored the relationship between A
 * Default gateway operation
 * Cisco Packet Tracer simulation
 * Networking fundamentals
+  
+## 📂 Packet Tracer Lab File
 
----
+Click the link below to access my ARP lab activity:
+
+[**Download ARP (1).pka**](./ARP%20%281%29.pka)
+
+
 
 **Lab:** Identify MAC and IP Addresses
 **Focus:** ARP on Local and Remote Networks
