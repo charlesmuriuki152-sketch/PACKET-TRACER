@@ -20,7 +20,11 @@ This project demonstrates routing between different networks using Cisco Packet 
 - Cisco Packet Tracer
 - Routers, switches, and PCs
 - Command-Line Interface (CLI)
+## 📁 Packet Tracer Activity
 
+[**Download / Open Create a LAN.pka**](https://github.com/charlesmuriuki152-sketch/Packet-Tracer/blob/main/Create%20a%20LAN.pka)
+
+Download the `.pka` file and open it using **Cisco Packet Tracer** to explore the LAN configuration.
 ## Skills Demonstrated
 - Network topology design
 - IP addressing and subnetting
