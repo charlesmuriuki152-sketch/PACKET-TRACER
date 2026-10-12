@@ -1,23 +1,23 @@
-# 🌐 Cisco Packet Tracer: Use the ipconfig Command
+# 🌐 Cisco Packet Tracer: Use the `ipconfig /all` Command
 
 ## 📌 Overview
 
-This lab explores the `ipconfig` command and how it helps users view network configuration information, including IP addresses, subnet masks, and default gateways.
+This lab explores the `ipconfig /all` command and how it displays detailed network configuration information, including IP addresses, MAC addresses, subnet masks, default gateways, and DNS servers.
 
 ## 🎬 Video Demonstration
 
 Click the thumbnail to watch the lab on YouTube.
 
-[![Use the ipconfig Command | Cisco Packet Tracer](https://img.youtube.com/vi/1G4YhqZbPmQ/hqdefault.jpg)](https://youtu.be/1G4YhqZbPmQ)
+[![Use the ipconfig /all Command | Cisco Packet Tracer](https://img.youtube.com/vi/1G4YhqZbPmQ/hqdefault.jpg)](https://youtu.be/1G4YhqZbPmQ)
 
 ▶️ [Watch on YouTube](https://youtu.be/1G4YhqZbPmQ)
 
 ## 🎯 Objectives
 
-* Understand the purpose of the `ipconfig` command.
-* Identify IP addresses, subnet masks, and default gateways.
-* Explore basic network configuration and troubleshooting.
-* Practise networking commands in Cisco Packet Tracer.
+* Understand the purpose of the `ipconfig /all` command.
+* Identify IP addresses, MAC addresses, subnet masks, and default gateways.
+* View DNS and DHCP configuration details.
+* Practise basic network troubleshooting.
 
 ## 📂 Activity File
 
@@ -27,20 +27,23 @@ Click the thumbnail to watch the lab on YouTube.
 
 1. Open the activity file in Cisco Packet Tracer.
 2. Select the PC and open **Desktop → Command Prompt**.
-3. Enter `ipconfig`, if supported.
-4. Examine the available IP configuration details.
-5. Identify the IP address, subnet mask, and default gateway.
+3. Enter `ipconfig /all` if the command is supported.
+4. Examine the network configuration details.
+5. Identify the IPv4 address, MAC address, subnet mask, default gateway, and DNS servers.
 
 ## 🧠 Key Concepts
 
-| Term            | Purpose                                                      |
-| --------------- | ------------------------------------------------------------ |
-| IP Address      | Identifies a device on an IP network.                        |
-| Subnet Mask     | Identifies the network and host portions of an IPv4 address. |
-| Default Gateway | Provides a route to destinations outside the local subnet.   |
-| `ipconfig`      | Displays network configuration information on Windows.       |
+| Term             | Purpose                                                         |
+| ---------------- | --------------------------------------------------------------- |
+| `ipconfig /all`  | Displays detailed network configuration information on Windows. |
+| IPv4 Address     | Identifies a device on an IPv4 network.                         |
+| Physical Address | The MAC address of a network adapter.                           |
+| Subnet Mask      | Identifies the network and host portions of an IPv4 address.    |
+| Default Gateway  | Provides a route to other networks.                             |
+| DNS Server       | Resolves domain names to IP addresses.                          |
+| DHCP             | Automatically assigns network configuration when enabled.       |
 
-*Note: Packet Tracer supports a limited set of commands, which may differ from those available in Windows.*
+*Note: Cisco Packet Tracer supports a limited set of commands, which may differ from those available in Windows.*
 
 ## 📚 Resources
 
